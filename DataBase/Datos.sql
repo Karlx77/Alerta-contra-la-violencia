@@ -1,0 +1,65 @@
+# Tabla codigo
+insert into codigo (idCodigo, numCodigo) values (1, '65044-077');
+insert into codigo (idCodigo, numCodigo) values (2, '46437-001');
+insert into codigo (idCodigo, numCodigo) values (3, '43269-891');
+insert into codigo (idCodigo, numCodigo) values (4, '49288-080');
+insert into codigo (idCodigo, numCodigo) values (5, '10893-462');
+insert into codigo (idCodigo, numCodigo) values (6, '41520-647');
+insert into codigo (idCodigo, numCodigo) values (7, '68084-125');
+insert into codigo (idCodigo, numCodigo) values (8, '64942-133');
+insert into codigo (idCodigo, numCodigo) values (9, '43857-030');
+insert into codigo (idCodigo, numCodigo) values (10, '21695-219');
+# tabla usuario
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (1, 'Angeline', 'Stollenbeck', 87736462);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (2, 'Grantley', 'Robyns', 35191378);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (3, 'Bunny', 'Tebbutt', 17717501);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (4, 'Rebekkah', 'Hanney', 92314283);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (5, 'Carmella', 'Alvares', 37482360);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (6, 'Betteanne', 'Rotham', 28469106);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (7, 'Rorie', 'Gallety', 78725207);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (8, 'Rebekkah', 'Prangley', 33866999);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (9, 'Tadeas', 'Ferrea', 84058701);
+insert into usuario (idUsuario, nombres, apellidos, telefono) values (10, 'Trumaine', 'Freschini', 36550371);
+# tabla ubicacion
+insert into ubicacion (idUbicacion, latitud, longitud) values (1, '25.362088', '118.691608');
+insert into ubicacion (idUbicacion, latitud, longitud) values (2, '37.6917333', '126.597295');
+insert into ubicacion (idUbicacion, latitud, longitud) values (3, '48.7736083', '44.8250459');
+insert into ubicacion (idUbicacion, latitud, longitud) values (4, '49.1278721', '16.613233');
+insert into ubicacion (idUbicacion, latitud, longitud) values (5, '24.094765', '116.00509');
+insert into ubicacion (idUbicacion, latitud, longitud) values (6, '44.5241667', '129.5688889');
+insert into ubicacion (idUbicacion, latitud, longitud) values (7, '-7.4133512', '108.0687579');
+insert into ubicacion (idUbicacion, latitud, longitud) values (8, '26.1656051', '50.5523828');
+insert into ubicacion (idUbicacion, latitud, longitud) values (9, '38.766979', '108.689367');
+insert into ubicacion (idUbicacion, latitud, longitud) values (10, '49.8691189', '15.5800287');
+# tabla alerta
+insert into alerta (idUsuario, idUbicacion, mensaje) values (1,1,'Algún día descifrare las misterios de la vida, y encontraré que todo los caminos y decisiones que tome en un momento  determinado fueron los indicados');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (2,2,'Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (3,3,'Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (4,4,'No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (5,5,'Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (6,6,'Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (7,7,'El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (8,8,'El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (9,9,'Muchas versiones han evolucionado a través de los años, algunas veces');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (10,10,'Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio.');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (1,10,'Algún día descifrare las misterios de la vida, y encontraré que todo los caminos y decisiones que tome en un momento  determinado fueron los indicados');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (2,9,'Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (3,8,'Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (4,7,'No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (5,6,'Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (6,5,'Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (7,4,'El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (8,3,'El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (9,2,'Muchas versiones han evolucionado a través de los años, algunas veces');
+insert into alerta (idUsuario, idUbicacion, mensaje) values (10,1,'Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio.');
+# tabla circulo familiar
+insert into circulofamiliar (idUsuario, idCodigo) values (1,1);
+insert into circulofamiliar (idUsuario, idCodigo) values (2,1);
+insert into circulofamiliar (idUsuario, idCodigo) values (3,1);
+insert into circulofamiliar (idUsuario, idCodigo) values (4,2);
+insert into circulofamiliar (idUsuario, idCodigo) values (5,2);
+insert into circulofamiliar (idUsuario, idCodigo) values (6,3);
+insert into circulofamiliar (idUsuario, idCodigo) values (7,3);
+insert into circulofamiliar (idUsuario, idCodigo) values (8,3);
+insert into circulofamiliar (idUsuario, idCodigo) values (9,4);
+insert into circulofamiliar (idUsuario, idCodigo) values (10,4);
