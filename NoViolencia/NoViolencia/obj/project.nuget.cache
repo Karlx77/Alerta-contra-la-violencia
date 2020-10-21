@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "anRaOHhHHTkU9KdsRfygxtHWSfDudU0mX1M53WhAmJfsidRWWV4CLAm/O2z20ulGq+GD9/rpMuQyLVz7/lAPog==",
+  "dgSpecHash": "Yhrw+MnevHOzCFKfHA+ejRdCJEdymdIFoIl0+HvY/SaVeE8y3Wl5CQsgKmIu9LpBJ9kVsCr80dK9sKcU6zjF0w==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karla Agar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Karla Agar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {}
+    "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
+    "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
         "projectName": "NoViolencia",
-        "projectPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
         "packagesPath": "C:\\Users\\Karla Agar\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -16,7 +16,7 @@ namespace NoViolencia.Model
             Builder.Server = "127.0.0.1";
             Builder.Database = "appxamarin";
             Builder.UserID = "root";
-            Builder.Password = "";
+            Builder.Password = "secret";
 
             try
             {

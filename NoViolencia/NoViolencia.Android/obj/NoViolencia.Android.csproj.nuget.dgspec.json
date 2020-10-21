@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj": {}
+    "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj": {
+    "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
         "projectName": "NoViolencia.Android",
-        "projectPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
         "packagesPath": "C:\\Users\\Karla Agar\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
-                "projectPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj"
+              "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
+    "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
         "projectName": "NoViolencia",
-        "projectPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\NoViolencia.csproj",
         "packagesPath": "C:\\Users\\Karla Agar\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

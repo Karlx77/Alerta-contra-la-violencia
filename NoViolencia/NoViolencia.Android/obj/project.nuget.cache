@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phxo8fZgsWNAbycATvUYZljoS1cWm/i279L//7igQodVLrk4XgBQKFxsuA8e1xjFn6hNzUNW3hliYMJMm9h6Ug==",
+  "dgSpecHash": "NSz88yFdNo3uL/HNoA9VTlYq7O433V6w2mVr0n72wKALrOp8lJ87XXczCQsa7t+jsE0+Gj2WJApRkq2+rg88Ig==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\2020-2\\Taller de Programacion\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Alerta-contra-la-violencia\\NoViolencia\\NoViolencia.Android\\NoViolencia.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karla Agar\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Karla Agar\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
