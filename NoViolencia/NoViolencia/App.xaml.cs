@@ -1,20 +1,16 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using NoViolencia.Services;
-using NoViolencia.Views;
 
 namespace NoViolencia
 {
     public partial class App : Application
     {
-
         public App()
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
