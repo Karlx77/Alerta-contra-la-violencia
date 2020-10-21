@@ -1,50 +1,50 @@
-@string/appbar_scrolling_view_behavior;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
-@string/appbar_scrolling_view_behavior;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-alpha;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
-alpha;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
-android.support.design.widget.AppBarLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.AppBarLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
-android.support.design.widget.AppBarLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
-android.support.design.widget.BottomNavigationView;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
-android.support.design.widget.CoordinatorLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
-android.support.design.widget.CoordinatorLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
-android.support.design.widget.CoordinatorLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
-android.support.design.widget.TabLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+alpha;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+alpha;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
 android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
-android.support.v7.widget.RecyclerView;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
-android.support.v7.widget.Toolbar;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
-android.support.v7.widget.Toolbar;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
-attr;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+attr;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-cache-path;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
-declare-styleable;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
-external-cache-path;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+declare-styleable;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+external-cache-path;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-FrameLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
-item;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
-LinearLayout;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
-paths;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-resources;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
-resources;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
-resources;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+FrameLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+item;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+LinearLayout;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+paths;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+resources;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
+resources;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
-set;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
-set;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
-set;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
-set;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
-string;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
-style;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+set;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+set;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
+set;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+set;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
+string;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
+style;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
-translate;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
-translate;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
-translate;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
-translate;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
-xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Documents\2020-2\Taller de Programacion\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+translate;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+translate;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
+translate;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+translate;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\xampp\htdocs\Alerta-contra-la-violencia\NoViolencia\NoViolencia.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
