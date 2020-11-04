@@ -19,3 +19,23 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+// code
+Route::group([
+    'prefix' => 'codes',
+], function () {
+    Route::get('/', 'CodeController@index')
+        ->name('codes.code.index');
+});
+
+Route::group([
+    'prefix' => 'familyCircles',
+], function () {
+    Route::get('/', 'FamilyCircleController@index')
+        ->name('familyCircles.family.index');
+    Route::post('/', 'FamilyCircleController@store')
+        ->name('familyCircles.family.store');
+});
+
+
+
